@@ -1,5 +1,5 @@
 <h1>Conteúdos a serem estudados em seguida</h1>
-<p>Functions;</p>
+<p>Funções;</p>
 <p>Objetos;</p>
 <p>Modularização;</p>
 <p>RegEx;</p>
